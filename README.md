@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Hemantsk2004
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning html,css,js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning JS and React
+- 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me :hemantsingh0063611@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a beginner
+- ⚡ Fun fact: I am batman
 
 <!---
 Hemantsk2004/Hemantsk2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
